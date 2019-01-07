@@ -5,6 +5,13 @@
 了解学习大数据生态常用组件的基本原理、使用场景和使用方法，以Spark的使用为主，其余组件了解即可；
 通读官方文档，尝试编写demo程序，可参考《Spark快速大数据分析》或《Spark高级数据分析》
 
+计划（2019.01.1-2019.01.15，基于Spark快速大数据分析）：
+- Spark环境搭建（StandAlone）
+- 基于Idea完成Spark WordCount代码编写，打包，上传，提交，集群运行全过程
+- 学习spark基本算子，RDD(DataFram)编程
+- 学习Spark进阶（累加器，广播变量，分区操作，进程间通信）
+- 学习spark调优，熟悉Spark SQL，Streaming，ML
+
 ## Tensorflow/Scikit-Learn实战
 
 学习Tensorflow的基本原理和使用方法，建议阅读《机器学习实战：基于Scikit-Learn和TensorFlow》并配
