@@ -1,6 +1,6 @@
 # NetEase入职作业
 
-## 大数据生态(Spark/Hadoop/Hive/Hbase)
+## 大数据生态(Spark/Hadoop/Hive/Hbase) Done 2019.01.17
 
 了解学习大数据生态常用组件的基本原理、使用场景和使用方法，以Spark的使用为主，其余组件了解即可；
 通读官方文档，尝试编写demo程序，可参考《Spark快速大数据分析》或《Spark高级数据分析》
@@ -17,10 +17,20 @@
 学习Tensorflow的基本原理和使用方法，建议阅读《机器学习实战：基于Scikit-Learn和TensorFlow》并配
 合书中的例子进行实践，熟练使用python
 
+计划（2019.01.17-2019.02.01，基于Hands-On Machine Learning with Scikit-Learn & TensorFlow）：
+- 熟练使用Python
+- 基于Python + TF 完成书中部分例子
+
 ## Linux Shell/Git使用
 
 自行安装一台Linux环境进行日常开发使用，建议阅读《Linux命令行大全》前10章配合实践；学习使用git管
 理代码，参考https://git-scm.com/book/zh/v1/熟悉常用命令
+
+计划（2019.01.17-2019.02.01）：
+- 学习Shell脚本
+- 学习Linux基本操作
+- 学习Git基本操作
+- 基于Git管理文档与代码
 
 ## 推荐/搜索/广告/NLP前沿论文阅读  
 
