@@ -12,7 +12,7 @@
 - 学习Spark进阶（累加器，广播变量，分区操作，进程间通信）
 - 学习spark调优，熟悉Spark SQL，Streaming，ML
 
-## Tensorflow/Scikit-Learn实战
+## Tensorflow/Scikit-Learn实战 ING
 
 学习Tensorflow的基本原理和使用方法，建议阅读《机器学习实战：基于Scikit-Learn和TensorFlow》并配
 合书中的例子进行实践，熟练使用python
@@ -21,7 +21,7 @@
 - 熟练使用Python
 - 基于Python + TF 完成书中部分例子
 
-## Linux Shell/Git使用
+## Linux Shell/Git使用 编写文档中
 
 自行安装一台Linux环境进行日常开发使用，建议阅读《Linux命令行大全》前10章配合实践；学习使用git管
 理代码，参考https://git-scm.com/book/zh/v1/熟悉常用命令
