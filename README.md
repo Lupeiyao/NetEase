@@ -21,7 +21,7 @@
 - 熟练使用Python
 - 基于Python + TF 完成书中部分例子
 
-## Linux Shell/Git使用 编写文档中
+## Linux Shell/Git使用 Done 2019.01.29
 
 自行安装一台Linux环境进行日常开发使用，建议阅读《Linux命令行大全》前10章配合实践；学习使用git管
 理代码，参考https://git-scm.com/book/zh/v1/熟悉常用命令
