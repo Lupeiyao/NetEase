@@ -12,7 +12,7 @@
 - 学习Spark进阶（累加器，广播变量，分区操作，进程间通信）
 - 学习spark调优，熟悉Spark SQL，Streaming，ML
 
-## Tensorflow/Scikit-Learn实战 ING
+## Tensorflow/Scikit-Learn实战 Done 2019.02.20
 
 学习Tensorflow的基本原理和使用方法，建议阅读《机器学习实战：基于Scikit-Learn和TensorFlow》并配
 合书中的例子进行实践，熟练使用python
@@ -32,7 +32,7 @@
 - 学习Git基本操作
 - 基于Git管理文档与代码
 
-## 推荐/搜索/广告/NLP前沿论文阅读  
+## 推荐/搜索/广告/NLP前沿论文阅读  ING 预计2019.03.24结束
 
 调研阅读近5年在KDD/sigir/www/WSDM/Recsys等偏应用的会议上工业界发表的推荐/搜索/广告/NLP方面
 的论文，例如Wide&Deep/DIN/DeepFM/XGBoost等，推荐使用google scholar，备选百度学术
@@ -42,7 +42,7 @@
 - 每天[1|2]篇
 - 每篇总结中心思想
 
-## 实战训练
+## 实战训练 ING 预计2019.03.24结束
 
 选择主线任务四中学习到部分模型以Tensorlfow实现，并尝试在Avazu/Criteo/Movielens-1M等任一公开数
 据集上重现出论文中的结果；哪怕无法重现也请尽量逼近论文中的结果。
